@@ -1,5 +1,5 @@
 # RockPaperScissors
-Desafio de uma Unidade Avaliativa da faculdade de Analise e Desenvolvimento de Sistemas.
+Desafio de uma Unidade Avaliativa da Faculdade de Analise e Desenvolvimento de Sistemas.
 
 Descrição:
 Você foi contratado por uma empresa de desenvolvimento de software, e todos os novos integrantes do time em que você vai trabalhar passarão por um teste, que é uma forma de entrosamento. No teste, você deverá desenvolver o jogo Pedra-Papel-Tesoura junto com um colega.
