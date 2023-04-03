@@ -23,10 +23,10 @@ case 0:
     if (escolhaCPU == 0){
         printf("Escolha do usuario = Pedra \nEscolha do CPU = Pedra \nResultado = Empate");
     }
-    if (escolhaCPU == 1){
+    else if (escolhaCPU == 1){
         printf("Escolha do usuario = Pedra\nEscolha do CPU = Papel \nResultado = CPU Venceu");
     }
-    if (escolhaCPU == 2){
+    else if (escolhaCPU == 2){
         printf("Escolha do usuario = Pedra\nEscolha do CPU = Tesoura \nResultado = Usuario Venceu");
     }
     break;
@@ -35,10 +35,10 @@ case 1:
     if (escolhaCPU == 0){
         printf("Escolha do usuario = Papel\nEscolha do CPU = Pedra \nResultado = Usuario Venceu");
     }
-    if (escolhaCPU == 1){
+    else if (escolhaCPU == 1){
         printf("Escolha do usuario = Papel\nEscolha do CPU = Papel \nResultado = Empate");
     }
-    if (escolhaCPU == 2){
+    else if (escolhaCPU == 2){
         printf("Escolha do usuario = Papel\nEscolha do CPU = Tesoura \nResultado = CPU Venceu");
     }
     break;
@@ -47,10 +47,10 @@ case 2:
     if (escolhaCPU == 0){
         printf("Escolha do usuario = Tesoura\nEscolha do CPU = Pedra \nResultado = CPU Venceu");
     }
-    if (escolhaCPU == 1){
+    else if (escolhaCPU == 1){
         printf("Escolha do usuario = Tesoura\nEscolha do CPU = Papel \nResultado = Usuario Venceu");
     }
-    if (escolhaCPU == 2){
+    else if (escolhaCPU == 2){
         printf("Escolha do usuario = Tesoura\nEscolha do CPU = Tesoura \nResultado = Empate");
     }
     break;
