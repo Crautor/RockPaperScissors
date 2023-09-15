@@ -29,7 +29,7 @@ do{
         if (escolhaCPU == 0){
             printf("\nRESULTADO\n");
             printf("\n=====================================\n");
-            printf("Escolha do usuario = Pedra \nEscolha do CPU = Pedra \nResultado = Empate\n");
+            printf("Escolha do Usuario = Pedra \nEscolha do CPU = Pedra \nResultado = Empate\n");
             printf("=====================================\n");
             printf("\nCONTADOR\n");
             printf("\n=====================================\n");
@@ -39,7 +39,7 @@ do{
         else if (escolhaCPU == 1){
             printf("\nRESULTADO\n");
             printf("\n=====================================\n");
-            printf("Escolha do usuario = Pedra\nEscolha do CPU = Papel \nResultado = CPU Venceu\n");
+            printf("Escolha do Usuario = Pedra\nEscolha do CPU = Papel \nResultado = CPU Venceu\n");
             pontosCPU++;
             printf("=====================================\n");
             printf("\nCONTADOR\n");
@@ -50,7 +50,7 @@ do{
         else if (escolhaCPU == 2){
             printf("\nRESULTADO\n");
             printf("\n=====================================\n");
-            printf("Escolha do usuario = Pedra\nEscolha do CPU = Tesoura \nResultado = Usuario Venceu\n");
+            printf("Escolha do Usuario = Pedra\nEscolha do CPU = Tesoura \nResultado = Usuario Venceu\n");
             pontosUSER++;
             printf("=====================================\n");
             printf("\nCONTADOR\n");
@@ -64,7 +64,7 @@ do{
         if (escolhaCPU == 0){
             printf("\nRESULTADO\n");
             printf("\n=====================================\n");
-            printf("Escolha do usuario = Papel\nEscolha do CPU = Pedra \nResultado = Usuario Venceu\n");
+            printf("Escolha do Usuario = Papel\nEscolha do CPU = Pedra \nResultado = Usuario Venceu\n");
             pontosUSER++;
             printf("=====================================\n");
             printf("\nCONTADOR\n");
@@ -75,7 +75,7 @@ do{
         else if (escolhaCPU == 1){
             printf("\nRESULTADO\n");
             printf("\n=====================================\n");
-            printf("Escolha do usuario = Papel\nEscolha do CPU = Papel \nResultado = Empate\n");
+            printf("Escolha do Usuario = Papel\nEscolha do CPU = Papel \nResultado = Empate\n");
             printf("=====================================\n");
             printf("\nCONTADOR\n");
             printf("\n=====================================\n");
@@ -85,7 +85,7 @@ do{
         else if (escolhaCPU == 2){
             printf("\nRESULTADO\n");
             printf("\n=====================================\n");
-            printf("Escolha do usuario = Papel\nEscolha do CPU = Tesoura \nResultado = CPU Venceu\n");
+            printf("Escolha do Usuario = Papel\nEscolha do CPU = Tesoura \nResultado = CPU Venceu\n");
             pontosCPU++;
             printf("=====================================\n");
             printf("\nCONTADOR\n");
@@ -99,7 +99,7 @@ do{
         if (escolhaCPU == 0){
             printf("\nRESULTADO\n");
             printf("\n=====================================\n");
-            printf("Escolha do usuario = Tesoura\nEscolha do CPU = Pedra \nResultado = CPU Venceu\n");
+            printf("Escolha do Usuario = Tesoura\nEscolha do CPU = Pedra \nResultado = CPU Venceu\n");
             pontosCPU++;
             printf("=====================================\n");
             printf("\nCONTADOR\n");
@@ -110,7 +110,7 @@ do{
         else if (escolhaCPU == 1){
             printf("\nRESULTADO\n");
             printf("\n=====================================\n");
-            printf("Escolha do usuario = Tesoura\nEscolha do CPU = Papel \nResultado = Usuario Venceu\n");
+            printf("Escolha do Usuario = Tesoura\nEscolha do CPU = Papel \nResultado = Usuario Venceu\n");
             pontosUSER++;
             printf("=====================================\n");
             printf("\nCONTADOR\n");
@@ -121,7 +121,7 @@ do{
         else if (escolhaCPU == 2){
             printf("\nRESULTADO\n");
             printf("\n=====================================\n");
-            printf("Escolha do usuario = Tesoura\nEscolha do CPU = Tesoura \nResultado = Empate\n");
+            printf("Escolha do Usuario = Tesoura\nEscolha do CPU = Tesoura \nResultado = Empate\n");
             printf("=====================================\n");
             printf("\nCONTADOR\n");
             printf("\n=====================================\n");
