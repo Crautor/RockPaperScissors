@@ -31,7 +31,7 @@ do{
             printf("\n=====================================\n");
             printf("Escolha do Usuario = Pedra \nEscolha do CPU = Pedra \nResultado = Empate\n");
             printf("=====================================\n");
-            printf("\nCONTADOR\n");
+            printf("\nPLACAR\n");
             printf("\n=====================================\n");
             printf("Usuario: %d Pontos\nCPU: %d pontos\n",pontosUSER,pontosCPU);
             printf("=====================================\n");
@@ -42,7 +42,7 @@ do{
             printf("Escolha do Usuario = Pedra\nEscolha do CPU = Papel \nResultado = CPU Venceu\n");
             pontosCPU++;
             printf("=====================================\n");
-            printf("\nCONTADOR\n");
+            printf("\nPLACAR\n");
             printf("\n=====================================\n");
             printf("Usuario: %d Pontos\nCPU: %d pontos\n",pontosUSER,pontosCPU);
             printf("=====================================\n");
@@ -53,7 +53,7 @@ do{
             printf("Escolha do Usuario = Pedra\nEscolha do CPU = Tesoura \nResultado = Usuario Venceu\n");
             pontosUSER++;
             printf("=====================================\n");
-            printf("\nCONTADOR\n");
+            printf("\nPLACAR\n");
             printf("\n=====================================\n");
             printf("Usuario: %d Pontos\nCPU: %d pontos\n",pontosUSER,pontosCPU);
             printf("=====================================\n");
@@ -67,7 +67,7 @@ do{
             printf("Escolha do Usuario = Papel\nEscolha do CPU = Pedra \nResultado = Usuario Venceu\n");
             pontosUSER++;
             printf("=====================================\n");
-            printf("\nCONTADOR\n");
+            printf("\nPLACAR\n");
             printf("\n=====================================\n");
             printf("Usuario: %d Pontos\nCPU: %d pontos\n",pontosUSER,pontosCPU);
             printf("=====================================\n");
@@ -77,7 +77,7 @@ do{
             printf("\n=====================================\n");
             printf("Escolha do Usuario = Papel\nEscolha do CPU = Papel \nResultado = Empate\n");
             printf("=====================================\n");
-            printf("\nCONTADOR\n");
+            printf("\nPLACAR\n");
             printf("\n=====================================\n");
             printf("Usuario: %d Pontos\nCPU: %d pontos\n",pontosUSER,pontosCPU);
             printf("=====================================\n");
@@ -88,7 +88,7 @@ do{
             printf("Escolha do Usuario = Papel\nEscolha do CPU = Tesoura \nResultado = CPU Venceu\n");
             pontosCPU++;
             printf("=====================================\n");
-            printf("\nCONTADOR\n");
+            printf("\nPLACAR\n");
             printf("\n=====================================\n");
             printf("Usuario: %d Pontos\nCPU: %d pontos\n",pontosUSER,pontosCPU);
             printf("=====================================\n");
@@ -102,7 +102,7 @@ do{
             printf("Escolha do Usuario = Tesoura\nEscolha do CPU = Pedra \nResultado = CPU Venceu\n");
             pontosCPU++;
             printf("=====================================\n");
-            printf("\nCONTADOR\n");
+            printf("\nPLACAR\n");
             printf("\n=====================================\n");
             printf("Usuario: %d Pontos\nCPU: %d pontos\n",pontosUSER,pontosCPU);
             printf("=====================================\n");
@@ -113,7 +113,7 @@ do{
             printf("Escolha do Usuario = Tesoura\nEscolha do CPU = Papel \nResultado = Usuario Venceu\n");
             pontosUSER++;
             printf("=====================================\n");
-            printf("\nCONTADOR\n");
+            printf("\nPLACAR\n");
             printf("\n=====================================\n");
             printf("Usuario: %d Pontos\nCPU: %d pontos\n",pontosUSER,pontosCPU);
             printf("=====================================\n");
@@ -123,7 +123,7 @@ do{
             printf("\n=====================================\n");
             printf("Escolha do Usuario = Tesoura\nEscolha do CPU = Tesoura \nResultado = Empate\n");
             printf("=====================================\n");
-            printf("\nCONTADOR\n");
+            printf("\nPLACAR\n");
             printf("\n=====================================\n");
             printf("Usuario: %d Pontos\nCPU: %d pontos\n",pontosUSER,pontosCPU);
             printf("=====================================\n");
