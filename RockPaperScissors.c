@@ -1,5 +1,6 @@
 //Signed By Vitor Dallanol
 #include <stdio.h>
+#include <time.h>
 #include <stdlib.h>
 int main(){
 int escolha=0, escolhaCPU=0, pontosCPU=0, pontosUSER=0,loop=0;
